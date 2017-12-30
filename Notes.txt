@@ -1,0 +1,15 @@
+Python libraries to use:
+pandas (pd) - timeseries management
+numpy (np)
+matplotlib (plt)
+
+RELATED TOOLS to panda
+SciPy
+NumPy
+StatsModels
+scikit-learn
+Jupyter
+matplotlib
+
+http://pandas-datareader.readthedocs.io/en/latest/remote_data.html#fred
+
